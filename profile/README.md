@@ -1,5 +1,3 @@
-# VVS Sistemas
-
 ## Quem somos
 
 Empresa de tecnologia fundada em 2003. Desenvolvemos software de gestão empresarial e mantemos um ecossistema integrado de ERP, força de vendas, atendimento e CRM que atende mais de 2.000 empresas ativas: distribuidoras, atacadistas, indústrias, comércio e serviços.
